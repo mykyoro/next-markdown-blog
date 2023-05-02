@@ -1,5 +1,5 @@
 ---
-title: "github"
+title: "github で複数アカウントをディレクトリ毎に切り替える方法"
 date: "June 24 2021"
 excerpt: "This is the excerpt"
 cover_image: "/images/posts/img1.jpg"
