@@ -1,14 +1,20 @@
 ---
-title: "Test Post"
+title: "github"
 date: "June 24 2021"
 excerpt: "This is the excerpt"
 cover_image: "/images/posts/img1.jpg"
 ---
 
-## Heading Two
+## github で複数アカウントをディレクトリ毎に切り替える方法
 
-- Item 1
-- Item 2
+    .gitconfigで[includeIf]を指定する。
 
-Hello world
-add this word
+---
+
+### 参考にしたサイト
+
+(https://tanacio.com/how-to-use-multiple-github-accounts/)
+(https://www.wakuwakubank.com/posts/380-git-multiple-account/)
+(https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
+(https://akamist.com/blog/archives/5553)
+(https://nplll.com/2022/10/multiple-github-accounts-windows/#3_sshconfig)
