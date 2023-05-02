@@ -41,7 +41,8 @@ cover_image: "/images/posts/img1.jpg"
   > fatal: remote error:
   > github.com/StartdashHitokage96/gaogao-book-tutrial is not a valid repository name
   > Visit https://support.github.com/ for help
-  > **失敗**
+
+  **失敗**
 
   > $ git clone github.private:StartdashHitokage96/gaogao-book-tutrial.git
   > Cloning into 'gaogao-book-tutrial'...
@@ -50,7 +51,8 @@ cover_image: "/images/posts/img1.jpg"
   > remote: Compressing objects: 100% (4/4), done.
   > remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
   > Receiving objects: 100% (4/4), done.
-  > **成功**
+
+  **成功**
 
 - [わくわく Bank](https://www.wakuwakubank.com/posts/380-git-multiple-account/)
   - アカウントを使い分けて clone を実行の git clone github.com-private:username/repo.git の**github.com-private**の部分をつけたら push が成功した。
