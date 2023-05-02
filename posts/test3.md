@@ -13,6 +13,9 @@ cover_image: "/images/posts/img1.jpg"
 
 ### 参考にしたサイト
 
+↓ 文字を選択して ctrl+v で楽にリンク作れる豆
+[test](https://tonari-it.com/vscode-markdonw-all-in-one/)
+
 (https://tanacio.com/how-to-use-multiple-github-accounts/)
 (https://www.wakuwakubank.com/posts/380-git-multiple-account/)
 (https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
