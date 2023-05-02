@@ -26,13 +26,15 @@ cover_image: "/images/posts/img1.jpg"
   > $ git clone github.private:https://github.com/StartdashHitokage96/gaogao-book-tutrial.git
   > Cloning into 'gaogao-book-tutrial'...
   > fatal: protocol 'github.private:https' is not supported
-  > **失敗**
+
+  **失敗**
 
   > $ git clone git@github.private:https://github.com/StartdashHitokage96/gaogao-book-tutrial.gi
   > t
   > Cloning into 'gaogao-book-tutrial'...
   > fatal: protocol 'git@github.private:https' is not supported
-  > **失敗**
+
+  **失敗**
 
   > $ git clone git@github.private:/github.com/StartdashHitokage96/gaogao-book-tutrial.git  
   > Cloning into 'gaogao-book-tutrial'...
