@@ -8,6 +8,6 @@ cover_image: "/images/posts/img1.jpg"
 ## メモ
 
 字幕も音声も以下のように聞こえて、こんな表現あるのか？と思って調べたが、出てこない。<br>
-英語学習中という役の為、ありえない表現が出てくるので、それに引っ張られた。
+英語学習中という役の為、ありえない表現が出てくるので、それに引っ張られた。  
 the rubber got new bride ❌
 https://www.youtube.com/watch?v=qC27l6hrhak
