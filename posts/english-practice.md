@@ -13,7 +13,7 @@ the rubber got new bride ❌
 
 https://www.youtube.com/watch?v=qC27l6hrhak
 
-```js example-good:index.js
+```js:index.js example-good
 const greeting = "I'm a good example";
 ```
 
